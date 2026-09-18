@@ -1,0 +1,14 @@
+h2 {
+    font-size: 18px;
+    width: 75%;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
